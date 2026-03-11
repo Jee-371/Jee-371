@@ -78,6 +78,7 @@
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
@@ -95,9 +96,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jee-371&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jee-371&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
+---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jee-371&theme=github-dark&hide_border=true"/>
 </p>
